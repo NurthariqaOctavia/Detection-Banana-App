@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+glob
+warnings
+keras==2.14.0
+tensorflow==2.15.0
+streamlit==1.29.0
